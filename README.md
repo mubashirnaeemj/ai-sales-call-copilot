@@ -3,6 +3,16 @@
 Real-time AI sales assistant for Salesforce calls.
 Captures call audio → Deepgram STT → Claude AI → live suggestions for the agent.
 
+## Screenshots
+
+![App screenshot a](output_images/a.png)
+
+![App screenshot b](output_images/b.png)
+
+![App screenshot c](output_images/c.png)
+
+![App screenshot d](output_images/d.png)
+
 ---
 
 ## How it works
